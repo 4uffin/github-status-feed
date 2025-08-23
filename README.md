@@ -43,8 +43,7 @@ You can install all required dependencies at once by running this command in you
 3. **Create the .env file**:  
    * In the same directory where you placed ghfeed.py, create a new file named .env.  
    * Add the following line to the file, replacing YOUR_GITHUB_TOKEN with the token you just created:
-
-GITHUB_TOKEN="YOUR_GITHUB_TOKEN"
+     ```GITHUB_TOKEN="YOUR_GITHUB_TOKEN"```
 
 ## **How to Run**
 
