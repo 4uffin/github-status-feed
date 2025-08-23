@@ -76,4 +76,4 @@ When you're done, click **"Save"** to apply your changes. Your preferences will 
 
 ## **License**
 
-This project is licensed under the MIT License. Please read [LICENSE]() for more details.
+This project is licensed under the MIT License. Please read [LICENSE](https://github.com/4uffin/github-userstatus-feed/tree/main?tab=MIT-1-ov-file#) for more details.
