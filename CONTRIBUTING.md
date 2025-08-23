@@ -1,10 +1,8 @@
-Here is a CONTRIBUTING.md file. This is a great starting point for providing guidelines for others who might want to contribute to your project. You can customize the sections with more specific rules as your project evolves.
-
-**Disclaimer:** This is a personal proof of concept project. I make no promises and provide no guarantees that I will acknowledge or accept any contributions, bug reports, or feature requests. Submitting a pull request or issue does not guarantee it will be reviewed or merged.
+> **Disclaimer:** This is a personal proof of concept project. I make no promises and provide no guarantees that I will acknowledge or accept any contributions, bug reports, or feature requests. Submitting a pull request or issue does not guarantee it will be reviewed or merged.
 
 # **Contributing to GitHub Status Feed**
 
-Thank you for your interest in contributing to this project\! This is a simple proof of concept, but all contributions are welcome and greatly appreciated.
+Thank you for your interest in contributing to this project! This is a simple proof of concept, but all contributions are welcome and greatly appreciated.
 
 ## **How to Contribute**
 
@@ -26,7 +24,7 @@ If you have an idea for an enhancement or a new feature, please create a new iss
 If you want to contribute code, please follow these steps:
 
 1. **Fork** the repository and clone it to your local machine.  
-2. Create a new branch for your feature or bug fix: git checkout \-b feature/your-feature-name  
+2. Create a new branch for your feature or bug fix: ```git checkout -b feature/your-feature-name```  
 3. Make your changes and test them thoroughly.  
 4. Commit your changes with a clear and descriptive commit message.  
 5. Push your changes to your fork.  
